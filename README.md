@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @arizalwd
+- 👀 I’m interested in Web Development especially WordPress CMS.
+- 🌱 I’m currently learning to create professional WordPres premium plugins and themes.
+- 💞️ I’m looking to collaborate on WordPress development.
+- 📫 How to reach me? Contact me at arizaldinasty224@gmail.com or at my portfolio website www.arizaldinasti.com
